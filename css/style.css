@@ -1,0 +1,21 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+
+    background-color: lightgreen;
+}
+.minha-classe{
+    background-color:#909090;
+    color: white;
+}
+.minha-margem{
+padding-top:30px;
+padding-bottom: 30px;
+
+}
+.cadastro{
+
+    background-color:#D8F6CE;
+}
+
